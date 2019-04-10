@@ -1,0 +1,11 @@
+uva 315 - Networking - desenvolvido em Python 3.5
+
+O algoritmo guarda o grafo em uma matriz de adjacencias.
+Faz uma busca em profundidade partindo do primeiro vertice, para cada vertice adjacente a este não visitado, marca como visitado e faz a busca pelo adjacente. Se for raiz e tiver mais que um filho, ou o lowpt = v ou o filho.
+
+"
+Your submission with number 20490131 for the problem 315 - Network has received the verdict Accepted.
+Congratulations! Now it is time to try a new problem.
+"
+
+Teste realizado no site da ACM.
